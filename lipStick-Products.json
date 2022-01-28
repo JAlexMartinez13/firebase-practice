@@ -1,6 +1,7 @@
 [{
     "Brand": "Charlotte Tilbury",
     "Type": "Lipstick",
+    "SKU": "Exs1W723EeirCMyOaKkM",
     "Color": "Very Victoria - taupe nude",
     "Price": 34.00,
     "Description": "A matte lipstick that features a long-lasting, buildable, and hydrating formula." 
@@ -8,6 +9,7 @@
 {
     "Brand": "Bite Beauty",
     "Type": "Lipstick",
+    "SKU": "RYDtF2X2OY0TfZQ4FoTC",
     "Color": "Sugar Buns - pink nude",
     "Price": 28.00,
     "Description": "A clean, vegan, hydrating soft-matte lipstick, powered by nourishing cocoa butter for lasting lightweight color." 
@@ -15,6 +17,7 @@
 {
     "Brand": "Rare Beauty by Selena Gomez",
     "Type": "Liquid lipstick",
+    "SKU": "UAcxn3Nsdm0DiWo8qQbx",
     "Color": "Inspire - bright red (Selena's go-to shade)",
     "Price": 20.00,
     "Description": "A weightless air-whipped lip cream that hugs lips with rich color and nourishing hydration that gives a soft velvety matte finish." 
@@ -22,6 +25,7 @@
 {
     "Brand": "Yves Saint Laurent",
     "Type": "Lipstick",
+    "SKU": "wLw6QGoRRVUPPaGavSrj",
     "Color": "21 Rouge Paradoxe - bright red",
     "Price": 39.00,
     "Description": "A comfortable and intensely pigmented semi-matte lipstick with an innovative square-bullet shape for precise application" 
